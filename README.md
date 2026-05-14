@@ -12,7 +12,7 @@ const dev = {
   name:      "Mohamed IDBENOUAKRIM",
   role:      "Software Engineer",
   contact:   "medidbenouakrim@gmail.com",
-  focus:     ["fullstack", "cloud", ""],
+  focus:     ["fullstack", "cloud"],
   learning:  ["ML", "DS"],
   loop():     void { /* never stops shipping */ }
 };
