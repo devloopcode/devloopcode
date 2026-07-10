@@ -13,7 +13,7 @@
 const dev = {
   username:  "devloopcode",
   name:      "Mohamed IDBENOUAKRIM",
-  role:      "Software Engineer",
+  role:      "Full Stack Engineer",
   contact:   "medidbenouakrim@gmail.com",
   focus:     ["fullstack", "cloud"],
   learning:  ["ML", "DS"],
